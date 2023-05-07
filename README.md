@@ -1,2 +1,5 @@
-# 42_Piscine
-42Lisboa_Piscine
+The 42 Piscine at 42Lisboa coding school is an immersive coding program designed to help students learn the fundamentals of computer programming through a series of intense, hands-on coding challenges. The program typically lasts between two and four weeks, and students are expected to work long hours each day to complete the coding challenges assigned to them.
+
+The coding challenges in the Piscine cover a wide range of programming topics, including shell scripting, C programming, and other programming languages and concepts. Students are expected to work both individually and in teams to complete the challenges, and are provided with support and guidance from experienced instructors and mentors.
+
+The goal of the 42 Piscine is to help students develop the technical skills and problem-solving abilities needed to succeed in the fast-paced and rapidly-evolving field of computer programming. By completing the program, students are better equipped to pursue careers in software development, data science, artificial intelligence, and other technology fields.
